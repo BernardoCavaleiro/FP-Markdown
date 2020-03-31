@@ -1,4 +1,7 @@
 # FP-Markdown
+
+---
+
 Bernardo  Cavaleiro
 
 **_2190752_**
@@ -10,6 +13,8 @@ Bernardo  Cavaleiro
 - Python
 - ...
 
+---
+
 > Metodologias de Desenvolvimento de Software @ 2020
 
-![] (LOGO IPL)
+![](politecnico_h-01.png)
