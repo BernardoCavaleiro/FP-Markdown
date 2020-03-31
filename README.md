@@ -17,4 +17,4 @@ Bernardo  Cavaleiro
 
 > Metodologias de Desenvolvimento de Software @ 2020
 
-![](politecnico_h-01.png)
+![](politecnico_h-01.png =250) 
